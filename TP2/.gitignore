@@ -1,0 +1,32 @@
+# Laravel
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.*
+.phpunit.result.cache
+.phpunit.cache
+
+# Laravel Vite
+/public/build
+/public/hot
+
+# Laravel Sail / Docker
+.docker
+
+# IDE / Éditeur
+/.idea
+.vscode
+
+# Divers
+npm-debug.log*
+yarn-error.log*
+auth.json
+
+# JetBrains Fleet
+/.fleet
+
+# Homestead
+Homestead.yaml
+Homestead.json
